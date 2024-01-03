@@ -1,0 +1,42 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-size: 50px;
+    display: flex;
+    justify-content: center;
+    font-family:  Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+header{
+    text-align: center;
+}
+
+#item-input{
+    height: 50px;
+    font-size: 40px;
+    vertical-align: middle;
+}
+
+.output-div{
+    display: flex;
+    justify-content: center;
+}
+
+li{
+    margin-bottom: 20px;
+}
+
+button{
+    font-size: 30px;
+    vertical-align: middle;
+    padding: 10px 20px;
+    background-color: #04AA6D;
+    color: white;
+    border: 0;
+    border-radius: 10px;
+}
+
+#delete{
+    background-color: #f44336;
+    margin-left: 50px;
+}
